@@ -1,3 +1,20 @@
+
+# Inhaltsverzeichnis
+
+## Übersicht
+
+| Thema | Beschreibung |
+|---|---|
+| Startseite | Allgemeine Informationen |
+| Einrichtung | Installation und Einrichtung |
+| Funktionen | Übersicht aller Funktionen |
+
+## Dokumentationsseiten
+
+- [Startseite](index.md)
+- [Projekt einrichten](docs/setup.md)
+- [Hauptfunktionen](docs/features.md)
+
 # Willkommen zur Dokumentation
 
 Willkommen auf meiner Projektdokumentation!
